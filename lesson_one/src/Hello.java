@@ -4,5 +4,6 @@ public class Hello {
         int myFirstNumber = 5;
 
         System.out.println(myFirstNumber);
+        System.out.println();
     }
 }
